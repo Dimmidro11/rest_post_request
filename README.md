@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/9fl4cme9so5btbj5?svg=true)](https://ci.appveyor.com/project/Dimmidro11/rest-post-request)
